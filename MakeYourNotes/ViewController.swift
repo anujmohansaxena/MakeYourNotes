@@ -57,6 +57,8 @@ class ViewController: BaseViewController {
             print("Unable to create directory \(error.debugDescription)")
         }
         
+        print("ram is a good boy")
+        print("gogogle")
         
         do {
             // get the documents directory url
